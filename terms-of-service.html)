@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Think and Grow Rich</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            line-height: 1.6;
+            color: #333;
+        }
+        h1, h2 { color: #2c3e50; }
+        .last-updated { color: #666; font-style: italic; }
+        .contact-info { background: #f5f5f5; padding: 15px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p class="last-updated">Last updated: December 2025</p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By downloading or using the Think and Grow Rich mobile application ("the App"), you agree to be bound by these Terms of Service. If you do not agree, please do not use the App.</p>
+
+    <h2>2. Description of Service</h2>
+    <p>Think and Grow Rich is an educational mobile application that provides:</p>
+    <ul>
+        <li>Access to the text version of "Think and Grow Rich" by Napoleon Hill.</li>
+        <li>Audio narration and educational insights.</li>
+        <li>Progress tracking and offline reading capabilities.</li>
+    </ul>
+
+    <h2>3. Intellectual Property</h2>
+    <p>The App design, code, and curated educational content are protected by copyright. You agree not to reverse engineer, modify, or redistribute the App content without authorization.</p>
+
+    <h2>4. Advertising</h2>
+    <p>The App is supported by advertisements through Google AdMob. By using the App, you consent to the display of these advertisements.</p>
+
+    <h2>5. Disclaimers</h2>
+    <p>The App is provided "as is." We do not guarantee that the App will be error-free or that access will be uninterrupted at all times.</p>
+
+    <h2>6. Contact Information</h2>
+    <div class="contact-info">
+        <p>Questions regarding these terms should be sent to:</p>
+        <p><strong>Developer:</strong> Bk Technologies <br>
+        <strong>Email:</strong> bktech.global@gmail.com</p>
+    </div>
+</body>
+</html>
